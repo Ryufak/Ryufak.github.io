@@ -6,6 +6,6 @@
     padding-left: 2rem;
 }
 
-a, a * {
+.article-page a, .article-page a * {
     color: var(--bs-link-color-rgb) !important;
 }
