@@ -6,6 +6,6 @@
     padding-left: 2rem;
 }
 
-a {
+a, a * {
     color: var(--bs-link-color-rgb) !important;
 }
